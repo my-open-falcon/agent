@@ -2,8 +2,8 @@ package http
 
 import (
 	"encoding/json"
-	"github.com/open-falcon/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/my-open-falcon/agent/g"
+	"github.com/my-open-falcon/common/model"
 	"net/http"
 )
 

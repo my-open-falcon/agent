@@ -1,8 +1,8 @@
 package cron
 
 import (
-	"github.com/open-falcon/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/my-open-falcon/agent/g"
+	"github.com/my-open-falcon/common/model"
 	"log"
 	"strconv"
 	"strings"

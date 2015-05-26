@@ -1,9 +1,9 @@
 package cron
 
 import (
-	"github.com/open-falcon/agent/funcs"
-	"github.com/open-falcon/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/my-open-falcon/agent/funcs"
+	"github.com/my-open-falcon/agent/g"
+	"github.com/my-open-falcon/common/model"
 	"time"
 )
 

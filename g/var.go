@@ -1,7 +1,7 @@
 package g
 
 import (
-	"github.com/open-falcon/common/model"
+	"github.com/my-open-falcon/common/model"
 	"github.com/toolkits/net"
 	"github.com/toolkits/slice"
 	"log"
